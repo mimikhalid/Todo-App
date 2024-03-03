@@ -4,6 +4,14 @@ This repository contains a Todo application with a Django backend API (in the `b
 
 ##  Table of Contents
 
+- [Django Backend](#django-backend)
+  - [Installation](#installation)
+  - [Usage](#usage)
+- [Flutter App](#flutter-app)
+  - [Installation](#installation-1)
+  - [Setting up Android Studio](#setting-up-android-studio)
+  - [Usage](#usage-1)
+  
 [TOC]
 
 
