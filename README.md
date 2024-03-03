@@ -12,9 +12,6 @@ This repository contains a Todo application with a Django backend API (in the `b
   - [Setting up Android Studio](#setting-up-android-studio)
   - [Usage](#usage-1)
   
-[TOC]
-
-
 
 ## Django Backend
 
